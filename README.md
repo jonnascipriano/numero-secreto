@@ -30,3 +30,6 @@ O projeto foi criado utilizando as tecnologias base do desenvolvimento web:
 
 ## Dispositivo de tela menor
 <img width="366" height="811" alt="image" src="https://github.com/user-attachments/assets/d9cf3c76-3037-4ae1-b9fe-ae2311b044b1" />
+
+
+[Clique aqui para ver](https://jonnascipriano.github.io/numero-secreto/)
